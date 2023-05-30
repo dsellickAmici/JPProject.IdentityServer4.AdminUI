@@ -188,20 +188,6 @@ Here some screenshots
 ## Admin UI ##
 <img src="https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI/blob/master/build/jp-adminui.gif"  width="480" />
 
-# Demo #
-
-Check our full demo online.
-
-## We are online
-
-<img align="right" width="100px" src="https://www.developpez.net/forums/attachments/p289604d1/a/a/a" />
-
-Check it now at [Admin Panel](https://admin.jpproject.net).
-
-You can check also [SSO](https://sso.jpproject.net) and [Profile Manager](https://user.jpproject.net)
-
-_New users are readonly_
-
 # Technologies #
 
 Check below how it was developed.
